@@ -1,5 +1,5 @@
 body{
-    font-family: 'Arial', 'verdana';
+    font-family: 'Arial', 'Verdana';
     background-color: #000;
     color: #FFFFFF;
     margin-top: 20px;
@@ -109,6 +109,6 @@ footer p{
     padding-top: 15px;
     padding-right:15px ;
     padding-bottom: 15px ;
-    padding-bottom: none;
-    margin: auto;
+    padding-left: none;
+    
 }
